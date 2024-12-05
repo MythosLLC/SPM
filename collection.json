@@ -1,1 +1,145 @@
-{"formatVersion":"1.0","generatedAt":"2023-07-12T18:18:35Z","generatedBy":{"name":"Ian Oswald"},"keywords":["mythos"],"name":"Mythos packages","overview":"This collection contains Swift packages.","packages":[{"keywords":[],"readmeURL":"https://raw.githubusercontent.com/MythosLLC/MythosControls_iOS/master/README.md?token=AATN5JPSFMNFCGZZPY3OLWLEV3XLC","url":"https://github.com/MythosLLC/MythosControls_iOS","versions":[{"defaultToolsVersion":"5.3","manifests":{"5.3":{"minimumPlatformVersions":[{"name":"ios","version":"14.0"}],"packageName":"MythosControls","products":[{"name":"MythosControls","targets":["MythosControls"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"MythosControls","name":"MythosControls"}],"toolsVersion":"5.3"}},"summary":"","version":"1.0.0"}]},{"keywords":[],"readmeURL":"https://raw.githubusercontent.com/MythosLLC/MythosUtils_iOS/master/README.md?token=AATN5JJR45HQ5CFHAIUZT23EV3XLI","summary":"Useful extensions and custom data types.","url":"https://github.com/MythosLLC/MythosUtils_iOS","versions":[{"defaultToolsVersion":"5.6","manifests":{"5.6":{"minimumPlatformVersions":[{"name":"ios","version":"14.0"}],"packageName":"MythosUtils","products":[{"name":"MythosUtils","targets":["MythosUtils"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"MythosUtils","name":"MythosUtils"}],"toolsVersion":"5.6"}},"summary":"","version":"1.0.0"}]},{"keywords":[],"readmeURL":"https://raw.githubusercontent.com/MythosLLC/Timber_iOS/master/README.md?token=AATN5JOZGW5JVU7QDLZQZKLEV3XLM","summary":"Data logging package for iOS","url":"https://github.com/MythosLLC/Timber_iOS","versions":[{"defaultToolsVersion":"5.6","manifests":{"5.6":{"minimumPlatformVersions":[{"name":"ios","version":"11.0"}],"packageName":"Timber","products":[{"name":"Timber","targets":["Timber"],"type":{"library":["dynamic"]}}],"targets":[{"moduleName":"Timber","name":"Timber"}],"toolsVersion":"5.6"}},"summary":"","version":"1.0.0"}]}]}
+{
+    "formatVersion": "1.0",
+    "generatedAt": "2023-07-12T18:18:35Z",
+    "generatedBy": {
+        "name": "Ian Oswald"
+    },
+    "keywords": [
+        "mythos"
+    ],
+    "name": "Mythos packages",
+    "overview": "This collection contains Swift packages.",
+    "packages": [
+        {
+            "keywords": [],
+            "readmeURL": "https://raw.githubusercontent.com/MythosLLC/MythosControls_iOS/master/README.md?token=AATN5JPSFMNFCGZZPY3OLWLEV3XLC",
+            "url": "https://github.com/MythosLLC/MythosControls_iOS",
+            "versions": [
+                {
+                    "defaultToolsVersion": "5.3",
+                    "manifests": {
+                        "5.3": {
+                            "minimumPlatformVersions": [
+                                {
+                                    "name": "ios",
+                                    "version": "14.0"
+                                }
+                            ],
+                            "packageName": "MythosControls",
+                            "products": [
+                                {
+                                    "name": "MythosControls",
+                                    "targets": [
+                                        "MythosControls"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "MythosControls",
+                                    "name": "MythosControls"
+                                }
+                            ],
+                            "toolsVersion": "5.3"
+                        }
+                    },
+                    "summary": "",
+                    "version": "1.1.0"
+                }
+            ]
+        },
+        {
+            "keywords": [],
+            "readmeURL": "https://raw.githubusercontent.com/MythosLLC/MythosUtils_iOS/master/README.md?token=AATN5JJR45HQ5CFHAIUZT23EV3XLI",
+            "summary": "Useful extensions and custom data types.",
+            "url": "https://github.com/MythosLLC/MythosUtils_iOS",
+            "versions": [
+                {
+                    "defaultToolsVersion": "5.6",
+                    "manifests": {
+                        "5.6": {
+                            "minimumPlatformVersions": [
+                                {
+                                    "name": "ios",
+                                    "version": "14.0"
+                                }
+                            ],
+                            "packageName": "MythosUtils",
+                            "products": [
+                                {
+                                    "name": "MythosUtils",
+                                    "targets": [
+                                        "MythosUtils"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "MythosUtils",
+                                    "name": "MythosUtils"
+                                }
+                            ],
+                            "toolsVersion": "5.6"
+                        }
+                    },
+                    "summary": "",
+                    "version": "1.1.0"
+                }
+            ]
+        },
+        {
+            "keywords": [],
+            "readmeURL": "https://raw.githubusercontent.com/MythosLLC/Timber_iOS/master/README.md?token=AATN5JOZGW5JVU7QDLZQZKLEV3XLM",
+            "summary": "Data logging package for iOS",
+            "url": "https://github.com/MythosLLC/Timber_iOS",
+            "versions": [
+                {
+                    "defaultToolsVersion": "5.6",
+                    "manifests": {
+                        "5.6": {
+                            "minimumPlatformVersions": [
+                                {
+                                    "name": "ios",
+                                    "version": "11.0"
+                                }
+                            ],
+                            "packageName": "Timber",
+                            "products": [
+                                {
+                                    "name": "Timber",
+                                    "targets": [
+                                        "Timber"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "dynamic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "Timber",
+                                    "name": "Timber"
+                                }
+                            ],
+                            "toolsVersion": "5.6"
+                        }
+                    },
+                    "summary": "",
+                    "version": "1.0.0"
+                }
+            ]
+        }
+    ]
+}
